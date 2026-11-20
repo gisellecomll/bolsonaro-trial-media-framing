@@ -1,0 +1,58 @@
+term_id,term,direction,category,gloss_en
+1,golpe de estado,pro,asserts_crime,coup d'état
+2,tentativa de golpe,pro,asserts_crime,coup attempt
+3,tentativa golpista,pro,asserts_crime,coup attempt (adjectival form)
+4,trama golpista,pro,asserts_crime,coup plot
+5,plano golpista,pro,asserts_crime,coup plan
+6,crime contra a democracia,pro,asserts_crime,crime against democracy
+7,crimes contra a democracia,pro,asserts_crime,crimes against democracy
+8,atentado contra a democracia,pro,asserts_crime,attack on democracy
+9,ameaça à democracia,pro,asserts_crime,threat to democracy
+10,atos antidemocráticos,pro,asserts_crime,anti-democratic acts
+11,condenação,pro,legitimises_conviction,conviction
+12,condenado,pro,legitimises_conviction,convicted (masc. sing.)
+13,condenados,pro,legitimises_conviction,convicted (plural)
+14,culpado,pro,legitimises_conviction,guilty (sing.)
+15,culpados,pro,legitimises_conviction,guilty (plural)
+16,responsabilização,pro,legitimises_conviction,holding accountable
+17,responsabilizado,pro,legitimises_conviction,held accountable
+18,defesa da democracia,pro,legitimises_conviction,defence of democracy
+19,réu,pro,procedural_legitimacy,defendant
+20,réus,pro,procedural_legitimacy,defendants
+21,criminoso,pro,procedural_legitimacy,criminal (masc. sing.)
+22,criminosos,pro,procedural_legitimacy,criminals
+23,criminosa,pro,procedural_legitimacy,criminal (fem. sing.)
+24,golpista,pro,procedural_legitimacy,coup plotter / pro-coup
+25,golpistas,pro,procedural_legitimacy,coup plotters
+26,julgado,pro,procedural_legitimacy,tried (sing.)
+27,julgados,pro,procedural_legitimacy,tried (plural)
+28,perseguição,anti,delegitimises_trial,persecution
+29,perseguição política,anti,delegitimises_trial,political persecution
+30,ilegítimo,anti,delegitimises_trial,illegitimate (masc.)
+31,ilegítima,anti,delegitimises_trial,illegitimate (fem.)
+32,ilegitimidade,anti,delegitimises_trial,illegitimacy
+33,injusto,anti,delegitimises_trial,unjust
+34,injustiça,anti,delegitimises_trial,injustice
+35,arbitrário,anti,delegitimises_trial,arbitrary (masc.)
+36,arbitrária,anti,delegitimises_trial,arbitrary (fem.)
+37,arbitrariedade,anti,delegitimises_trial,arbitrariness
+38,parcialidade,anti,delegitimises_trial,partiality / bias
+39,preso político,anti,victimises_defendant,political prisoner
+40,presos políticos,anti,victimises_defendant,political prisoners
+41,perseguido,anti,victimises_defendant,persecuted (sing.)
+42,perseguidos,anti,victimises_defendant,persecuted (plural)
+43,inocente,anti,victimises_defendant,innocent (sing.)
+44,inocentes,anti,victimises_defendant,innocent (plural)
+45,absolvição,anti,victimises_defendant,acquittal
+46,farsa,anti,victimises_defendant,farce / sham
+47,teatro,anti,victimises_defendant,theatre
+48,espetáculo,anti,victimises_defendant,spectacle
+49,vingança,anti,attacks_process,revenge
+50,vingança política,anti,attacks_process,political revenge
+51,revanchismo,anti,attacks_process,revanchism
+52,censura,anti,attacks_process,censorship
+53,liberdade de expressão,anti,attacks_process,freedom of expression
+54,ativismo judicial,anti,attacks_process,judicial activism
+55,abuso de poder,anti,attacks_process,abuse of power
+56,desproporcional,anti,attacks_process,disproportionate
+57,desproporcionado,anti,attacks_process,disproportionate (variant)
