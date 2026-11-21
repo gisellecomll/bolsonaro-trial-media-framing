@@ -27,6 +27,10 @@ This project was developed for the Quantitative Methods course at the Federal Un
 - The average framing index in the newspaper's voice ranged from 0.861 (BBC News Brasil) to 0.939 (Metrópoles).
 - The data point to variation between the outlets, although this variation is very small.
 
+![Framing of Bolsonaro's trial by outlet](outputs/figures/figure_1_framing_by_outlet.png)
+
+![Framing index: full text vs newspaper's voice](outputs/figures/figure_2_framing_index_full_vs_voice.png)
+
 Running `run_all.R` with R 4.5.3 and dplyr 1.2.1 reproduced all numerical results reported in the paper (see [Reproducibility status](#reproducibility-status)).
 
 ## Repository structure
