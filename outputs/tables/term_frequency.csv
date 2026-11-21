@@ -1,0 +1,58 @@
+"term","direction","freq_full","freq_voice"
+"absolvição","anti",180,170
+"abuso de poder","anti",16,16
+"parcialidade","anti",28,13
+"inocente","anti",31,13
+"perseguição","anti",22,10
+"liberdade de expressão","anti",22,8
+"perseguição política","anti",8,6
+"injustiça","anti",8,6
+"censura","anti",12,6
+"perseguido","anti",4,3
+"inocentes","anti",5,3
+"desproporcional","anti",9,3
+"presos políticos","anti",4,2
+"farsa","anti",8,2
+"injusto","anti",3,1
+"arbitrariedade","anti",2,1
+"ilegítimo","anti",1,0
+"ilegítima","anti",0,0
+"ilegitimidade","anti",0,0
+"arbitrário","anti",0,0
+"arbitrária","anti",0,0
+"preso político","anti",0,0
+"perseguidos","anti",0,0
+"teatro","anti",2,0
+"espetáculo","anti",0,0
+"vingança","anti",3,0
+"vingança política","anti",0,0
+"revanchismo","anti",0,0
+"ativismo judicial","anti",3,0
+"desproporcionado","anti",0,0
+"réu","pro",1036,967
+"réus","pro",902,870
+"golpe de estado","pro",575,537
+"condenação","pro",549,512
+"golpista","pro",562,512
+"criminosa","pro",466,361
+"trama golpista","pro",340,331
+"tentativa de golpe","pro",332,307
+"condenado","pro",307,294
+"julgado","pro",179,139
+"condenados","pro",120,119
+"golpistas","pro",125,108
+"julgados","pro",78,68
+"crimes contra a democracia","pro",25,23
+"plano golpista","pro",24,22
+"culpado","pro",26,20
+"responsabilizado","pro",17,13
+"atos antidemocráticos","pro",11,11
+"criminoso","pro",22,9
+"culpados","pro",6,6
+"criminosos","pro",8,6
+"tentativa golpista","pro",4,4
+"defesa da democracia","pro",7,4
+"responsabilização","pro",7,3
+"crime contra a democracia","pro",0,0
+"atentado contra a democracia","pro",2,0
+"ameaça à democracia","pro",1,0

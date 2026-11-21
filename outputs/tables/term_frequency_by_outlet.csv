@@ -1,0 +1,286 @@
+"term","direction","outlet","n"
+"golpe de estado","pro","Agência Brasil",110
+"golpe de estado","pro","BBC",133
+"golpe de estado","pro","CNN Brasil",111
+"golpe de estado","pro","G1",121
+"golpe de estado","pro","Metrópoles",62
+"tentativa de golpe","pro","Agência Brasil",57
+"tentativa de golpe","pro","BBC",98
+"tentativa de golpe","pro","CNN Brasil",37
+"tentativa de golpe","pro","G1",76
+"tentativa de golpe","pro","Metrópoles",39
+"tentativa golpista","pro","Agência Brasil",4
+"tentativa golpista","pro","BBC",0
+"tentativa golpista","pro","CNN Brasil",0
+"tentativa golpista","pro","G1",0
+"tentativa golpista","pro","Metrópoles",0
+"trama golpista","pro","Agência Brasil",103
+"trama golpista","pro","BBC",34
+"trama golpista","pro","CNN Brasil",22
+"trama golpista","pro","G1",100
+"trama golpista","pro","Metrópoles",72
+"plano golpista","pro","Agência Brasil",2
+"plano golpista","pro","BBC",11
+"plano golpista","pro","CNN Brasil",1
+"plano golpista","pro","G1",8
+"plano golpista","pro","Metrópoles",0
+"crime contra a democracia","pro","Agência Brasil",0
+"crime contra a democracia","pro","BBC",0
+"crime contra a democracia","pro","CNN Brasil",0
+"crime contra a democracia","pro","G1",0
+"crime contra a democracia","pro","Metrópoles",0
+"crimes contra a democracia","pro","Agência Brasil",1
+"crimes contra a democracia","pro","BBC",4
+"crimes contra a democracia","pro","CNN Brasil",1
+"crimes contra a democracia","pro","G1",15
+"crimes contra a democracia","pro","Metrópoles",2
+"atentado contra a democracia","pro","Agência Brasil",0
+"atentado contra a democracia","pro","BBC",0
+"atentado contra a democracia","pro","CNN Brasil",0
+"atentado contra a democracia","pro","G1",0
+"atentado contra a democracia","pro","Metrópoles",0
+"ameaça à democracia","pro","Agência Brasil",0
+"ameaça à democracia","pro","BBC",0
+"ameaça à democracia","pro","CNN Brasil",0
+"ameaça à democracia","pro","G1",0
+"ameaça à democracia","pro","Metrópoles",0
+"atos antidemocráticos","pro","Agência Brasil",2
+"atos antidemocráticos","pro","BBC",6
+"atos antidemocráticos","pro","CNN Brasil",0
+"atos antidemocráticos","pro","G1",1
+"atos antidemocráticos","pro","Metrópoles",2
+"condenação","pro","Agência Brasil",162
+"condenação","pro","BBC",133
+"condenação","pro","CNN Brasil",77
+"condenação","pro","G1",83
+"condenação","pro","Metrópoles",57
+"condenado","pro","Agência Brasil",30
+"condenado","pro","BBC",92
+"condenado","pro","CNN Brasil",30
+"condenado","pro","G1",116
+"condenado","pro","Metrópoles",26
+"condenados","pro","Agência Brasil",15
+"condenados","pro","BBC",26
+"condenados","pro","CNN Brasil",8
+"condenados","pro","G1",59
+"condenados","pro","Metrópoles",11
+"culpado","pro","Agência Brasil",4
+"culpado","pro","BBC",8
+"culpado","pro","CNN Brasil",2
+"culpado","pro","G1",6
+"culpado","pro","Metrópoles",0
+"culpados","pro","Agência Brasil",3
+"culpados","pro","BBC",0
+"culpados","pro","CNN Brasil",1
+"culpados","pro","G1",2
+"culpados","pro","Metrópoles",0
+"responsabilização","pro","Agência Brasil",0
+"responsabilização","pro","BBC",0
+"responsabilização","pro","CNN Brasil",1
+"responsabilização","pro","G1",1
+"responsabilização","pro","Metrópoles",1
+"responsabilizado","pro","Agência Brasil",1
+"responsabilizado","pro","BBC",4
+"responsabilizado","pro","CNN Brasil",2
+"responsabilizado","pro","G1",6
+"responsabilizado","pro","Metrópoles",0
+"defesa da democracia","pro","Agência Brasil",0
+"defesa da democracia","pro","BBC",1
+"defesa da democracia","pro","CNN Brasil",0
+"defesa da democracia","pro","G1",2
+"defesa da democracia","pro","Metrópoles",1
+"réu","pro","Agência Brasil",250
+"réu","pro","BBC",276
+"réu","pro","CNN Brasil",197
+"réu","pro","G1",142
+"réu","pro","Metrópoles",102
+"réus","pro","Agência Brasil",235
+"réus","pro","BBC",234
+"réus","pro","CNN Brasil",183
+"réus","pro","G1",120
+"réus","pro","Metrópoles",98
+"criminoso","pro","Agência Brasil",2
+"criminoso","pro","BBC",1
+"criminoso","pro","CNN Brasil",1
+"criminoso","pro","G1",2
+"criminoso","pro","Metrópoles",3
+"criminosos","pro","Agência Brasil",2
+"criminosos","pro","BBC",1
+"criminosos","pro","CNN Brasil",0
+"criminosos","pro","G1",1
+"criminosos","pro","Metrópoles",2
+"criminosa","pro","Agência Brasil",75
+"criminosa","pro","BBC",72
+"criminosa","pro","CNN Brasil",90
+"criminosa","pro","G1",82
+"criminosa","pro","Metrópoles",42
+"golpista","pro","Agência Brasil",152
+"golpista","pro","BBC",69
+"golpista","pro","CNN Brasil",33
+"golpista","pro","G1",182
+"golpista","pro","Metrópoles",76
+"golpistas","pro","Agência Brasil",27
+"golpistas","pro","BBC",14
+"golpistas","pro","CNN Brasil",1
+"golpistas","pro","G1",63
+"golpistas","pro","Metrópoles",3
+"julgado","pro","Agência Brasil",20
+"julgado","pro","BBC",63
+"julgado","pro","CNN Brasil",11
+"julgado","pro","G1",34
+"julgado","pro","Metrópoles",11
+"julgados","pro","Agência Brasil",12
+"julgados","pro","BBC",32
+"julgados","pro","CNN Brasil",1
+"julgados","pro","G1",18
+"julgados","pro","Metrópoles",5
+"perseguição","anti","Agência Brasil",3
+"perseguição","anti","BBC",3
+"perseguição","anti","CNN Brasil",2
+"perseguição","anti","G1",1
+"perseguição","anti","Metrópoles",1
+"perseguição política","anti","Agência Brasil",2
+"perseguição política","anti","BBC",1
+"perseguição política","anti","CNN Brasil",2
+"perseguição política","anti","G1",1
+"perseguição política","anti","Metrópoles",0
+"ilegítimo","anti","Agência Brasil",0
+"ilegítimo","anti","BBC",0
+"ilegítimo","anti","CNN Brasil",0
+"ilegítimo","anti","G1",0
+"ilegítimo","anti","Metrópoles",0
+"ilegítima","anti","Agência Brasil",0
+"ilegítima","anti","BBC",0
+"ilegítima","anti","CNN Brasil",0
+"ilegítima","anti","G1",0
+"ilegítima","anti","Metrópoles",0
+"ilegitimidade","anti","Agência Brasil",0
+"ilegitimidade","anti","BBC",0
+"ilegitimidade","anti","CNN Brasil",0
+"ilegitimidade","anti","G1",0
+"ilegitimidade","anti","Metrópoles",0
+"injusto","anti","Agência Brasil",0
+"injusto","anti","BBC",0
+"injusto","anti","CNN Brasil",0
+"injusto","anti","G1",0
+"injusto","anti","Metrópoles",1
+"injustiça","anti","Agência Brasil",1
+"injustiça","anti","BBC",4
+"injustiça","anti","CNN Brasil",0
+"injustiça","anti","G1",0
+"injustiça","anti","Metrópoles",1
+"arbitrário","anti","Agência Brasil",0
+"arbitrário","anti","BBC",0
+"arbitrário","anti","CNN Brasil",0
+"arbitrário","anti","G1",0
+"arbitrário","anti","Metrópoles",0
+"arbitrária","anti","Agência Brasil",0
+"arbitrária","anti","BBC",0
+"arbitrária","anti","CNN Brasil",0
+"arbitrária","anti","G1",0
+"arbitrária","anti","Metrópoles",0
+"arbitrariedade","anti","Agência Brasil",0
+"arbitrariedade","anti","BBC",1
+"arbitrariedade","anti","CNN Brasil",0
+"arbitrariedade","anti","G1",0
+"arbitrariedade","anti","Metrópoles",0
+"parcialidade","anti","Agência Brasil",2
+"parcialidade","anti","BBC",3
+"parcialidade","anti","CNN Brasil",2
+"parcialidade","anti","G1",6
+"parcialidade","anti","Metrópoles",0
+"preso político","anti","Agência Brasil",0
+"preso político","anti","BBC",0
+"preso político","anti","CNN Brasil",0
+"preso político","anti","G1",0
+"preso político","anti","Metrópoles",0
+"presos políticos","anti","Agência Brasil",0
+"presos políticos","anti","BBC",2
+"presos políticos","anti","CNN Brasil",0
+"presos políticos","anti","G1",0
+"presos políticos","anti","Metrópoles",0
+"perseguido","anti","Agência Brasil",0
+"perseguido","anti","BBC",0
+"perseguido","anti","CNN Brasil",0
+"perseguido","anti","G1",1
+"perseguido","anti","Metrópoles",2
+"perseguidos","anti","Agência Brasil",0
+"perseguidos","anti","BBC",0
+"perseguidos","anti","CNN Brasil",0
+"perseguidos","anti","G1",0
+"perseguidos","anti","Metrópoles",0
+"inocente","anti","Agência Brasil",1
+"inocente","anti","BBC",10
+"inocente","anti","CNN Brasil",0
+"inocente","anti","G1",2
+"inocente","anti","Metrópoles",0
+"inocentes","anti","Agência Brasil",1
+"inocentes","anti","BBC",2
+"inocentes","anti","CNN Brasil",0
+"inocentes","anti","G1",0
+"inocentes","anti","Metrópoles",0
+"absolvição","anti","Agência Brasil",55
+"absolvição","anti","BBC",53
+"absolvição","anti","CNN Brasil",31
+"absolvição","anti","G1",26
+"absolvição","anti","Metrópoles",5
+"farsa","anti","Agência Brasil",0
+"farsa","anti","BBC",0
+"farsa","anti","CNN Brasil",1
+"farsa","anti","G1",1
+"farsa","anti","Metrópoles",0
+"teatro","anti","Agência Brasil",0
+"teatro","anti","BBC",0
+"teatro","anti","CNN Brasil",0
+"teatro","anti","G1",0
+"teatro","anti","Metrópoles",0
+"espetáculo","anti","Agência Brasil",0
+"espetáculo","anti","BBC",0
+"espetáculo","anti","CNN Brasil",0
+"espetáculo","anti","G1",0
+"espetáculo","anti","Metrópoles",0
+"vingança","anti","Agência Brasil",0
+"vingança","anti","BBC",0
+"vingança","anti","CNN Brasil",0
+"vingança","anti","G1",0
+"vingança","anti","Metrópoles",0
+"vingança política","anti","Agência Brasil",0
+"vingança política","anti","BBC",0
+"vingança política","anti","CNN Brasil",0
+"vingança política","anti","G1",0
+"vingança política","anti","Metrópoles",0
+"revanchismo","anti","Agência Brasil",0
+"revanchismo","anti","BBC",0
+"revanchismo","anti","CNN Brasil",0
+"revanchismo","anti","G1",0
+"revanchismo","anti","Metrópoles",0
+"censura","anti","Agência Brasil",0
+"censura","anti","BBC",4
+"censura","anti","CNN Brasil",0
+"censura","anti","G1",2
+"censura","anti","Metrópoles",0
+"liberdade de expressão","anti","Agência Brasil",1
+"liberdade de expressão","anti","BBC",4
+"liberdade de expressão","anti","CNN Brasil",0
+"liberdade de expressão","anti","G1",1
+"liberdade de expressão","anti","Metrópoles",2
+"ativismo judicial","anti","Agência Brasil",0
+"ativismo judicial","anti","BBC",0
+"ativismo judicial","anti","CNN Brasil",0
+"ativismo judicial","anti","G1",0
+"ativismo judicial","anti","Metrópoles",0
+"abuso de poder","anti","Agência Brasil",0
+"abuso de poder","anti","BBC",5
+"abuso de poder","anti","CNN Brasil",0
+"abuso de poder","anti","G1",11
+"abuso de poder","anti","Metrópoles",0
+"desproporcional","anti","Agência Brasil",1
+"desproporcional","anti","BBC",1
+"desproporcional","anti","CNN Brasil",0
+"desproporcional","anti","G1",0
+"desproporcional","anti","Metrópoles",1
+"desproporcionado","anti","Agência Brasil",0
+"desproporcionado","anti","BBC",0
+"desproporcionado","anti","CNN Brasil",0
+"desproporcionado","anti","G1",0
+"desproporcionado","anti","Metrópoles",0
